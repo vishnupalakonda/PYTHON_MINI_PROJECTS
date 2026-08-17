@@ -14,4 +14,4 @@ A collection of beginner to intermediate Python projects.
 7. Calculator App
 8. Number Guessing Game
 9. Quiz Game
-10.ATM Simulation
+10. ATM Simulation
