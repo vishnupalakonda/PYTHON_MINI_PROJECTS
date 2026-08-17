@@ -3,6 +3,7 @@
 A collection of beginner to intermediate Python projects.
 
 
+
 ## Projects
 
 1. To-Do List
@@ -15,3 +16,4 @@ A collection of beginner to intermediate Python projects.
 8. Number Guessing Game
 9. Quiz Game
 10. ATM Simulation
+
