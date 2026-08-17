@@ -1,2 +1,15 @@
-# PYTHON_MINI_PROJECTS
-A collection of beginner-friendly Python mini projects designed to practice programming fundamentals, problem-solving, functions, data structures, and real-world application development.
+# Python Mini Projects
+
+A collection of beginner to intermediate Python projects.
+
+
+## Projects
+
+1. To-Do List
+2. Student Management System
+3. Expense Tracker
+4. Password Generator
+5. Contact Book
+6. Bank Management System
+7. Calculator App
+8. Number Guessing Game
